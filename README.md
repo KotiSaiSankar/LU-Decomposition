@@ -49,7 +49,10 @@ print(solution)
 ```
 
 ## Output:
-![lu decomposition]()
+
+![Screenshot from 2023-01-25 23-16-51](https://user-images.githubusercontent.com/118344248/214642001-1d1db5de-1e64-48d5-8d82-4a24c21810bc.png)
+
+![Screenshot from 2023-01-25 23-17-25](https://user-images.githubusercontent.com/118344248/214642122-eaf0540d-3849-4531-9720-f8243b8f613a.png)
 
 
 ## Result:
